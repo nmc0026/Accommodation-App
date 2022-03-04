@@ -7,6 +7,15 @@ Poverty, unemployment, and lack of affordable housing are commonly recognized ca
 Cell phones are a great way to locate resources that can help people rise out of homelessness.  This application seeks to help find open shelters in a person's region along with basic resources someone that is unsheltered might need.
 
 
+## Product Specifications
+
+### 1. Usage
+ * User is in need of resources and shelter
+ * User does not know their surroundings and needs a geo tracker
+ * User clicks on find location and is taken to a map locater
+ * User then selcets resources and shelters near them
+ * User then is taken to page with details on their selection 
+ * User is connected to resources and this is saved for later use
 
 ## Category
 ### *Housing/Maps & Navigation*
