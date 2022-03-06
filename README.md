@@ -7,7 +7,6 @@ Poverty, unemployment, and lack of affordable housing are commonly recognized ca
 Cell phones are a great way to locate resources that can help people rise out of homelessness.  This application seeks to help find open shelters in a person's region along with basic resources someone that is unsheltered might need.
 
 
-
 ## Category
 ### *Housing/Maps & Navigation*
 Provides availability of shelters and resources in a person's region from Google Maps and Government API.
@@ -50,6 +49,32 @@ Initially the app will start as a search for homeless shelters and basic resourc
 + Abuse surviviors resources 
 
 + Government to take this on in their own cities 
+
+## Product Specifications
+
+### 1. Use Cases 
+
+* User launches app to see a list of resources and shelters 
+* User types in what they are looking for
+* User then uses geo locater to show what is around them
+* User clicks on results to go to locations
+* Maps populates with location and phone numbers
+
+### 2. Screen Archetypes
+
+* Landing Page
+   * Lists of resources that might be easy to click
+   * Floating button to go to next page to serach 
+  
+* Serach Screen
+   * Type space to find specific information
+   * Serach by description
+   * Search by geo location traker
+   
+* Resutls  Screen
+   * Populates Google Map
+   * Shows locations and things around the user
+   * Contact information and directions
 
 
 ## Resources 
